@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6CFED696-98A0-44E6-B95F-62B53C1A72F0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>gmaps</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3E715B8B722B28E8F59A637E5BA9501C7AE41FDB</key>
+		<string>github.com:notice/swift-gmaps.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>gmaps.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3E715B8B722B28E8F59A637E5BA9501C7AE41FDB</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:notice/swift-gmaps.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3E715B8B722B28E8F59A637E5BA9501C7AE41FDB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3E715B8B722B28E8F59A637E5BA9501C7AE41FDB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>gmaps</string>
+		</dict>
+	</array>
+</dict>
+</plist>
